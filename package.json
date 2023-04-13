@@ -23,6 +23,6 @@
   "homepage": "https://github.com/Menash1906/PuzzL#readme",
   "dependencies": {
     "react": "^17.0.2",
-    "three": "^0.133.2"
+    "three": "^0.135.0"
   }
 }
