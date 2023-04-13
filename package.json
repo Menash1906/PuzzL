@@ -1,0 +1,28 @@
+{
+  "name": "puzzl",
+  "version": "1.0.0",
+  "description": "Generates Puzzle from Image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Menash1906/PuzzL.git"
+  },
+  "keywords": [
+    "puzzle",
+    "javascript",
+    "three.js"
+  ],
+  "author": "Michael Menashe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Menash1906/PuzzL/issues"
+  },
+  "homepage": "https://github.com/Menash1906/PuzzL#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "three": "^0.133.2"
+  }
+}
